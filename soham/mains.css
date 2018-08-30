@@ -1,0 +1,93 @@
+@charset "utf-8";
+/* CSS Document */
+.i1{
+	background-color: antiquewhite;
+	border: thick;
+	border-color: darksalmon;
+	text-align: left;
+	height: 150px;
+	width: 60%;
+	float: left;
+	margin: 25px 20px 5px 20px;
+	padding: 10px 5px 10px 10px;
+	font-size: 30px;
+	font-style: italic;
+}
+.header{
+   height:auto;
+   width:100%;
+   background:#000;
+   color:#777;
+   padding:10px 0px;
+}
+.header div{
+	font-size:12px;
+	padding-left:100px;
+}
+.menu{
+   height:auto;
+   width:98%;
+   background:#FFF;
+}
+.menu ul li{
+    float:left;
+	display:block;
+	padding:40px 15px;
+	font-size:20px;
+	text-transform:capitalize;
+}
+.menu li:hover{
+      background:#F00;
+}
+.menu ul li a{
+	color:#555;
+	text-transform:capitalize;
+	text-decoration:none;
+}
+.menu ul li:hover a{
+	color:#fff;
+}
+
+.i2{
+	background-color: coral;
+	border: thin;
+	border-color: cornsilk;
+	text-emphasis-position: left;
+	height: 200px;
+	float: left;
+	width: 60%;
+	margin: 25px 20px 5px 20px;
+	padding: 10px 5px 10px 10px;
+	font-size: 20px;
+	font-style: normal;
+
+}
+
+.i3{
+	background-color: antiquewhite;
+	border: thick;
+	border-color: darksalmon;
+	text-align: center;
+	height: 150px;
+	width: 60%;
+	float: left;
+	margin: 25px 20px 5px 20px;
+	padding: 10px 5px 10px 5px;
+	font-size: 30px;
+	font-style: italic;
+}
+
+i4{
+	height: 80%;
+	width: 600px;
+	position: fixed;
+	float: right;
+}
+
+.cor{
+	float: right;
+	background-color: red;
+	width: 50%;
+	margin: 3px 3px 3px 10px;
+	padding: 5px 5px 5px 40px;
+}

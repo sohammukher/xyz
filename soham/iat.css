@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+.lbox{
+	height: 95%;
+	width: auto;
+	margin: 10px 10px 10px 30px;
+	background-color: antiquewhite;
+	padding: 25px 10px 10px 10px;
+	font-size: 25px;
+	font-style: italic;
+	
+
+	
+}
+.rbox{
+	height: 95%;
+	width: auto;
+	margin: 25px 10px 15px 30px;
+	background-color: antiquewhite;
+	padding: 20px 5px 5px 5px;
+	font-size: 25px;
+	font-style: italic;
+	
+}
