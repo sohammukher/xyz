@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+.lbox{
+	height: 70%;
+	width:  40%;
+	float: left;
+	background-image: url(internship-1200x780.png);
+	
+	
+}
+.rbox{
+	height: 70%;
+	width: 40%;
+	float: right;
+	background-image: url(TR1_fundraising_appeal.jpg);
+}
